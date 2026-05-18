@@ -1,0 +1,247 @@
+{
+  "updatedAt": "2026-05-18",
+  "authority": "coventry-city-council",
+  "count": 24,
+  "applications": [
+    {
+      "ref": "26/01245/FUL",
+      "address": "Friargate, Coventry CV1 2HF",
+      "postcode": "CV1 2HF",
+      "proposal": "Friargate Plot 8 commercial scheme, new Grade A office accommodation alongside ground-floor retail and F&B in the modern CBD adjacent to Coventry station",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "12/04/2026",
+      "portal": "https://planning.coventry.gov.uk/portal/"
+    },
+    {
+      "ref": "26/01198/FUL",
+      "address": "City Centre South, Hertford Street, Coventry CV1 1LF",
+      "postcode": "CV1 1LF",
+      "proposal": "City Centre South Phase 1 mixed-use scheme, Shearer Property Regeneration Partners delivery of retail, leisure and residential accommodation on the largest Coventry retail-led regen site",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "28/03/2026",
+      "portal": "https://planning.coventry.gov.uk/portal/"
+    },
+    {
+      "ref": "26/01102/FUL",
+      "address": "Coventry Gateway, Whitmoor Park, Tollbar Way, Coventry CV3 4PJ",
+      "postcode": "CV3 4PJ",
+      "proposal": "Coventry Gateway logistics expansion, new Class B8 distribution warehouse accommodation supporting the JLR / Amazon / IKEA distribution corridor on the A45",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "15/03/2026",
+      "portal": "https://planning.coventry.gov.uk/portal/"
+    },
+    {
+      "ref": "26/01045/FUL",
+      "address": "JLR Whitley Engineering Centre, Abbey Road, Coventry CV3 4LF",
+      "postcode": "CV3 4LF",
+      "proposal": "Whitley business park ancillary R&D expansion, new Grade A office and lab accommodation supporting JLR engineering and supplier cluster",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "05/03/2026",
+      "portal": "https://planning.coventry.gov.uk/portal/"
+    },
+    {
+      "ref": "26/00978/FUL",
+      "address": "UK Battery Industrialisation Centre, Whitmoor Park, Coventry CV3 5JE",
+      "postcode": "CV3 5JE",
+      "proposal": "UKBIC supply chain expansion scheme, new Class B2 light industrial accommodation supporting EV battery R&D and supplier ecosystem at Whitmoor Park",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "20/02/2026",
+      "portal": "https://planning.coventry.gov.uk/portal/"
+    },
+    {
+      "ref": "26/00892/FUL",
+      "address": "FarGo Village, Far Gosford Street, Coventry CV1 5DZ",
+      "postcode": "CV1 5DZ",
+      "proposal": "FarGo Village independent F&B and creative-industries leisure expansion, additional unit subdivision and visitor accommodation in the Far Gosford Street regen corridor",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "06/02/2026",
+      "portal": "https://planning.coventry.gov.uk/portal/"
+    },
+    {
+      "ref": "26/00802/COU",
+      "address": "Far Gosford Street, Coventry CV1 5DZ",
+      "postcode": "CV1 5DZ",
+      "proposal": "Far Gosford Street historic high street change of use of upper floors above independent retail to managed Class C4 HMO accommodation",
+      "type": "COU",
+      "status": "Approved",
+      "received": "22/01/2026",
+      "portal": "https://planning.coventry.gov.uk/portal/"
+    },
+    {
+      "ref": "26/00712/FUL",
+      "address": "Cathedral Quarter, Bayley Lane, Coventry CV1 5RN",
+      "postcode": "CV1 5RN",
+      "proposal": "Cathedral Quarter heritage-led leisure scheme, new boutique hotel and F&B accommodation supporting Coventry Cathedral and Belgrade Theatre visitor catchment",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "08/01/2026",
+      "portal": "https://planning.coventry.gov.uk/portal/"
+    },
+    {
+      "ref": "26/00645/FUL",
+      "address": "Foleshill Road, Foleshill, Coventry CV6 5JE",
+      "postcode": "CV6 5JE",
+      "proposal": "Foleshill Road change of use of B2 industrial unit to mixed-use Class E retail and managed residential accommodation, common in the Holbrooks-Foleshill conversion belt",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "20/12/2025",
+      "portal": "https://planning.coventry.gov.uk/portal/"
+    },
+    {
+      "ref": "25/02892/FUL",
+      "address": "Westwood Way, Westwood Business Park, Coventry CV4 8HS",
+      "postcode": "CV4 8HS",
+      "proposal": "Westwood Business Park Ensign Business Centre refurbishment, multi-let office accommodation refresh adjacent to University of Warwick campus",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "05/12/2025",
+      "portal": "https://planning.coventry.gov.uk/portal/"
+    },
+    {
+      "ref": "25/02745/FUL",
+      "address": "Earlsdon Avenue, Earlsdon, Coventry CV5 6DR",
+      "postcode": "CV5 6DR",
+      "proposal": "Earlsdon Avenue suburban F&B parade refurbishment, frontage works and change of use of upper floors to managed flexible workspace",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "18/11/2025",
+      "portal": "https://planning.coventry.gov.uk/portal/"
+    },
+    {
+      "ref": "25/02612/COU",
+      "address": "Hertford Street, Coventry CV1 1LF",
+      "postcode": "CV1 1LF",
+      "proposal": "Hertford Street central retail unit change of use to Class E flexible commercial accommodation with retained heritage frontage",
+      "type": "COU",
+      "status": "Approved",
+      "received": "02/11/2025",
+      "portal": "https://planning.coventry.gov.uk/portal/"
+    },
+    {
+      "ref": "25/02478/FUL",
+      "address": "Walsgrave Triangle, Brade Drive, Walsgrave-on-Sowe, Coventry CV2 2TB",
+      "postcode": "CV2 2TB",
+      "proposal": "Walsgrave Triangle scheme adjacent to University Hospitals Coventry and Warwickshire, new healthcare ancillary and dental practice accommodation",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "18/10/2025",
+      "portal": "https://planning.coventry.gov.uk/portal/"
+    },
+    {
+      "ref": "25/02345/COU",
+      "address": "Holbrook Lane, Holbrooks, Coventry CV6 4DG",
+      "postcode": "CV6 4DG",
+      "proposal": "Holbrook Lane industrial estate change of use of B2 unit to mixed B2 / Class E with managed workspace and trade-counter accommodation",
+      "type": "COU",
+      "status": "Approved",
+      "received": "04/10/2025",
+      "portal": "https://planning.coventry.gov.uk/portal/"
+    },
+    {
+      "ref": "25/02212/FUL",
+      "address": "Ansty Park, Hangar Road, Ansty CV7 9JU",
+      "postcode": "CV7 9JU",
+      "proposal": "Ansty Park engineering and aerospace cluster expansion, new Class B1 office accommodation supporting Manufacturing Technology Centre and Rolls-Royce adjacency",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "20/09/2025",
+      "portal": "https://planning.rugby.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/02078/FUL",
+      "address": "Prologis Park Coventry, Stretton Road, Wolston, Ryton CV8 3FR",
+      "postcode": "CV8 3FR",
+      "proposal": "Prologis Park Coventry expansion at Ryton, new Class B8 distribution warehouse supporting Amazon Coventry distribution centre and JLR Tier 1 supply chain",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "06/09/2025",
+      "portal": "https://planning.rugby.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/01945/FUL",
+      "address": "Spon Street, Coventry CV1 3BB",
+      "postcode": "CV1 3BB",
+      "proposal": "Spon Street heritage parade refurbishment, listed-building consent for shopfront works and conversion of upper floors of medieval timber-frame buildings to boutique accommodation",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "23/08/2025",
+      "portal": "https://planning.coventry.gov.uk/portal/"
+    },
+    {
+      "ref": "25/01812/FUL",
+      "address": "Greyfriars Road, Coventry CV1 3RY",
+      "postcode": "CV1 3RY",
+      "proposal": "Greyfriars Road central CBD office refurbishment, mid-rise Grade B office building refurbishment serving central Coventry professional firm cluster",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "09/08/2025",
+      "portal": "https://planning.coventry.gov.uk/portal/"
+    },
+    {
+      "ref": "25/01678/FUL",
+      "address": "Allesley Old Road, Allesley, Coventry CV5 8GG",
+      "postcode": "CV5 8GG",
+      "proposal": "Allesley village neighbourhood retail scheme, new convenience and F&B accommodation alongside healthcare ancillary in affluent suburban fringe",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "26/07/2025",
+      "portal": "https://planning.coventry.gov.uk/portal/"
+    },
+    {
+      "ref": "25/01545/FUL",
+      "address": "Bayton Road Industrial Estate, Exhall, Coventry CV7 9EJ",
+      "postcode": "CV7 9EJ",
+      "proposal": "Bayton Road industrial estate refurbishment, new Class B2 workshop and Class B8 storage units supporting Coventry automotive Tier 2 supply chain",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "12/07/2025",
+      "portal": "https://planning.coventry.gov.uk/portal/"
+    },
+    {
+      "ref": "25/01412/COU",
+      "address": "Far Gosford Street, Coventry CV1 5DZ",
+      "postcode": "CV1 5DZ",
+      "proposal": "Far Gosford Street student-led F&B parade refurbishment, frontage works and conversion of upper floors to managed serviced offices and creative workspace",
+      "type": "COU",
+      "status": "Approved",
+      "received": "29/06/2025",
+      "portal": "https://planning.coventry.gov.uk/portal/"
+    },
+    {
+      "ref": "25/01278/FUL",
+      "address": "Browns Lane, Allesley, Coventry CV5 9DR",
+      "postcode": "CV5 9DR",
+      "proposal": "Browns Lane former JLR site mixed-use scheme, automotive heritage and innovation centre alongside ground-floor commercial accommodation",
+      "type": "FUL",
+      "status": "Pending",
+      "received": "15/06/2025",
+      "portal": "https://planning.coventry.gov.uk/portal/"
+    },
+    {
+      "ref": "25/01145/FUL",
+      "address": "Cathedral Lanes Shopping Centre, Broadgate, Coventry CV1 1NF",
+      "postcode": "CV1 1NF",
+      "proposal": "Cathedral Lanes Shopping Centre reconfiguration, anchor unit subdivision and new F&B accommodation in the central Coventry retail spine",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "01/06/2025",
+      "portal": "https://planning.coventry.gov.uk/portal/"
+    },
+    {
+      "ref": "25/01012/FUL",
+      "address": "Severn Trent HQ, Coventry CV1 2HX",
+      "postcode": "CV1 2HX",
+      "proposal": "Severn Trent HQ supporting commercial scheme, refurbishment of adjacent Grade B office accommodation and new ground-floor retail and F&B",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "18/05/2025",
+      "portal": "https://planning.coventry.gov.uk/portal/"
+    }
+  ]
+}

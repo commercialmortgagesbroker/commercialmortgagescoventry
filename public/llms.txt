@@ -1,0 +1,40 @@
+# Commercial Mortgages Coventry
+> Specialist commercial mortgage broker for Coventry, the JLR Whitley engineering centre, the Coventry Gateway logistics corridor and the wider West Midlands. Industrial, automotive supply chain, retail, semi-commercial, HMO portfolio and trading-business commercial mortgages from a 90+ lender panel including Shawbrook, InterBay Commercial, LendInvest, Cynergy Bank, Lloyds, NatWest, Barclays and Santander. Indicative terms in 48 hours, completion typically 4 to 8 weeks.
+
+## Content Hierarchy
+- /: Homepage with Coventry market snapshot, live planning pipeline, calculator, lender panel, area grid, case studies, testimonials, FAQ
+- /services/: Commercial mortgage product hub
+- /property-types/: Coverage by sector
+- /areas/: Coventry sub-areas with commercial planning and market data
+- /calculator/: Commercial mortgage repayment and LTV calculator
+- /blog/: Market commentary and rate insights
+- /case-studies/: Anonymised real deals
+- /about/: Broker bio and credentials
+- /how-it-works/: 5-step process
+- /contact/: Enquiry form
+- /faq/: Frequently asked questions
+
+## Key Facts
+- Service: Commercial mortgages
+- Coverage: Coventry, Ansty fringe, Ryton, Warwick fringe (CV4 University of Warwick), the wider West Midlands
+- Facility size: £150K to £10M
+- Term: 5 to 25 years
+- LTV: typically 65 to 75% (industrial up to 70%, semi-commercial up to 75%, trading-business 60 to 70%)
+- Rates (mid-2026): 6.0 to 9.0% pa
+- Lender panel: 90+ lenders
+- Decision time: indicative terms in 48 hours
+- Named lenders: Shawbrook, InterBay Commercial, LendInvest, Cynergy Bank, Lloyds, NatWest, Barclays, Santander, plus 80+ others
+
+## Data
+Each area page contains live local market data:
+- Land Registry sold-data signal (residential transaction volume as market temperature)
+- Live commercial planning pipeline from Coventry City Council Public Access portal
+- Named regeneration zones and business districts (Friargate, City Centre South, Coventry Gateway, Whitley, Whitmoor Park, UKBIC battery R&D, FarGo Village, Far Gosford Street)
+- Named demand anchors (Jaguar Land Rover Whitley, UK Battery Industrialisation Centre, Coventry University, University of Warwick, UHCW Walsgrave, Severn Trent HQ)
+- Lender appetite by sector
+
+## Contact
+- Phone: 07595 366094
+- Email: enquiries@commercialmortgagescoventry.co.uk
+- Site: https://commercialmortgagescoventry.co.uk
+- Network parent: https://commercialmortgagesbroker.co.uk
